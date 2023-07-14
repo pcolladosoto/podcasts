@@ -6,7 +6,7 @@
     <author>Clara Collado Soto</author>
     <itunes:author>Clara Collado Soto</itunes:author>
     <itunes:email>ccolladosoto@gmail.com</itunes:email>
-    <itunes:category text="News Commentary" />
+    <itunes:category text="News"> <itunes:category text="News Commentary" /></itunes:category>
     <image>
       <url>https://pcolladosoto.github.io/podcasts/images/logo.jpg</url>
       <title>Aclarando el fondo</title>
@@ -23,7 +23,7 @@
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Sat, 14 Jul 2023 23:30:00 UTC</pubDate>
-    <link>https://pcolladosoto.github.io/podcasts/rss.xml</link>
+    <link>https://pcolladosoto.github.io/podcasts</link>
     <itunes:image href="https://pcolladosoto.github.io/podcasts/images/logo.jpg" />
     <item>
       <author>Clara Collado Soto</author>
@@ -37,6 +37,7 @@
       <description>
         Audio del despegue del Apollo 11 ofrecido por  <![CDATA[ <a href="https://www.nasa.gov/connect/sounds/index.html">NASA</a>]]>.
       </description>
+      <link>https://pcolladosoto.github.io/podcasts</link>
     </item>
   </channel>
 </rss>
