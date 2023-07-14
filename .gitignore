@@ -1,0 +1,4 @@
+# Ignore hidden files except selected ones
+.*
+!.gitignore
+!.nojekyll
